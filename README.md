@@ -5,4 +5,4 @@ Author: Yash Saraswat
 
 ##Edit(week 1) More About me:
 I am learning to use Hitgub issues
-Also I love gardening and long distance biking
+Also I love gardening and long distance biking and sometimes i make mistakes too
